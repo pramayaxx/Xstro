@@ -2,7 +2,7 @@ import dotenv from 'dotenv';
 dotenv.config({ path: 'config.env' });
 
 const config = {
-  SESSION_ID: process.env.SESSION_ID || '7RRT7M1P',
+  SESSION_ID: process.env.SESSION_ID || 'XSTRO_44_21_57',
   SUDO: process.env.SUDO || '94770611075',
   BOT_INFO: process.env.BOT_INFO || 'Whatsapp Bot',
   WARN_COUNT: process.env.WARN_COUNT || 3,
